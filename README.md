@@ -1,2 +1,2 @@
 # hotstar-player
-Hack to stream in Ubuntu
+Hack to stream Hotstar videos in Ubuntu
